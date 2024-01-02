@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <array name="user_types">
+        <item>Patient</item>
+        <item>Doctor</item>
+        <item>Admin</item>
+    </array>
+
+        <array name="signup_user_types">
+            <item>Patient</item>
+            <!--<item>Doctor</item>-->
+        </array>
+    <array name="gender_options">
+        <item>Male</item>
+        <item>Female</item>
+        <item>Other</item>
+    </array>
+    <array name="add_admin_doctor_user_types">
+        <item>Doctor</item>
+        <item>Admin</item>
+    </array>
+
+
+
+</resources>
